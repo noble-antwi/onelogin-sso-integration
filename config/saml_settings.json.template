@@ -1,0 +1,20 @@
+{
+    "sp": {
+        "entityId": "https://localhost:5000/saml/metadata",
+        "assertionConsumerService": {
+            "url": "https://localhost:5000/saml/acs",
+            "binding": "urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST"
+        },
+        "singleLogoutService": {
+            "url": "https://localhost:5000/saml/sls", 
+            "binding": "urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect"
+        },
+        "NameIDFormat": "urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress"
+    },
+    "onelogin": {
+        "client_id": "DEMO_CLIENT_ID",
+        "client_secret": "DEMO_CLIENT_SECRET",
+        "region": "us",
+        "subdomain": "your-company"
+    }
+}

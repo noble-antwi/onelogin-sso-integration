@@ -1,0 +1,215 @@
+{
+  "summary": {
+    "total_users": 10,
+    "successful": 10,
+    "failed": 0,
+    "success_rate_percentage": 100.0
+  },
+  "performance_metrics": {
+    "processing_time_seconds": 0.0,
+    "processing_time_minutes": 0.0,
+    "traditional_time_minutes": 40.0,
+    "time_saved_minutes": 40.0,
+    "efficiency_gain_percentage": 100.0,
+    "users_per_minute": 238473.77
+  },
+  "detailed_results": [
+    {
+      "success": true,
+      "user_email": "testuser001@example.com",
+      "onelogin_id": "ol_user_23",
+      "session_id": "session_09877397-fa8b-400e-b6c3-ca379735d2de",
+      "attributes": {
+        "email": "testuser001@example.com",
+        "firstname": "Test001",
+        "lastname": "User",
+        "username": "testuser001",
+        "title": "Manager",
+        "department": "HR",
+        "employee_id": "EMP0001",
+        "status": "active",
+        "display_name": "Test001 User",
+        "created_at": "2025-10-20T02:59:16.213460"
+      },
+      "timestamp": "2025-10-20T02:59:16.213566"
+    },
+    {
+      "success": true,
+      "user_email": "testuser002@example.com",
+      "onelogin_id": "ol_user_23",
+      "session_id": "session_d4536b03-0753-4011-a981-92f1bf61361a",
+      "attributes": {
+        "email": "testuser002@example.com",
+        "firstname": "Test002",
+        "lastname": "User",
+        "username": "testuser002",
+        "title": "Analyst",
+        "department": "Finance",
+        "employee_id": "EMP0002",
+        "status": "active",
+        "display_name": "Test002 User",
+        "created_at": "2025-10-20T02:59:16.213700"
+      },
+      "timestamp": "2025-10-20T02:59:16.213902"
+    },
+    {
+      "success": true,
+      "user_email": "testuser003@example.com",
+      "onelogin_id": "ol_user_23",
+      "session_id": "session_5f0fcf3a-6f20-4a0e-af22-065a205dc8f6",
+      "attributes": {
+        "email": "testuser003@example.com",
+        "firstname": "Test003",
+        "lastname": "User",
+        "username": "testuser003",
+        "title": "Specialist",
+        "department": "Marketing",
+        "employee_id": "EMP0003",
+        "status": "active",
+        "display_name": "Test003 User",
+        "created_at": "2025-10-20T02:59:16.213970"
+      },
+      "timestamp": "2025-10-20T02:59:16.214186"
+    },
+    {
+      "success": true,
+      "user_email": "testuser004@example.com",
+      "onelogin_id": "ol_user_23",
+      "session_id": "session_2dfa324c-3199-4c3f-b7f5-0bafdcb54768",
+      "attributes": {
+        "email": "testuser004@example.com",
+        "firstname": "Test004",
+        "lastname": "User",
+        "username": "testuser004",
+        "title": "Coordinator",
+        "department": "Operations",
+        "employee_id": "EMP0004",
+        "status": "active",
+        "display_name": "Test004 User",
+        "created_at": "2025-10-20T02:59:16.214273"
+      },
+      "timestamp": "2025-10-20T02:59:16.214510"
+    },
+    {
+      "success": true,
+      "user_email": "testuser005@example.com",
+      "onelogin_id": "ol_user_23",
+      "session_id": "session_6148f939-396e-46cf-b5af-bd5780db378c",
+      "attributes": {
+        "email": "testuser005@example.com",
+        "firstname": "Test005",
+        "lastname": "User",
+        "username": "testuser005",
+        "title": "Administrator",
+        "department": "Sales",
+        "employee_id": "EMP0005",
+        "status": "active",
+        "display_name": "Test005 User",
+        "created_at": "2025-10-20T02:59:16.214585"
+      },
+      "timestamp": "2025-10-20T02:59:16.214777"
+    },
+    {
+      "success": true,
+      "user_email": "testuser006@example.com",
+      "onelogin_id": "ol_user_23",
+      "session_id": "session_27f9f2d2-7a0e-4c8d-bc1b-3f6fe93e8d5b",
+      "attributes": {
+        "email": "testuser006@example.com",
+        "firstname": "Test006",
+        "lastname": "User",
+        "username": "testuser006",
+        "title": "Manager",
+        "department": "IT",
+        "employee_id": "EMP0006",
+        "status": "active",
+        "display_name": "Test006 User",
+        "created_at": "2025-10-20T02:59:16.214850"
+      },
+      "timestamp": "2025-10-20T02:59:16.215003"
+    },
+    {
+      "success": true,
+      "user_email": "testuser007@example.com",
+      "onelogin_id": "ol_user_23",
+      "session_id": "session_ff10f291-c294-4f6e-aa7a-8ed66ee2435f",
+      "attributes": {
+        "email": "testuser007@example.com",
+        "firstname": "Test007",
+        "lastname": "User",
+        "username": "testuser007",
+        "title": "Analyst",
+        "department": "HR",
+        "employee_id": "EMP0007",
+        "status": "active",
+        "display_name": "Test007 User",
+        "created_at": "2025-10-20T02:59:16.215067"
+      },
+      "timestamp": "2025-10-20T02:59:16.215225"
+    },
+    {
+      "success": true,
+      "user_email": "testuser008@example.com",
+      "onelogin_id": "ol_user_23",
+      "session_id": "session_420e451f-2c1c-4b8f-a14e-9f6c70d4d64f",
+      "attributes": {
+        "email": "testuser008@example.com",
+        "firstname": "Test008",
+        "lastname": "User",
+        "username": "testuser008",
+        "title": "Specialist",
+        "department": "Finance",
+        "employee_id": "EMP0008",
+        "status": "active",
+        "display_name": "Test008 User",
+        "created_at": "2025-10-20T02:59:16.215289"
+      },
+      "timestamp": "2025-10-20T02:59:16.215469"
+    },
+    {
+      "success": true,
+      "user_email": "testuser009@example.com",
+      "onelogin_id": "ol_user_23",
+      "session_id": "session_84c69ea1-1200-4e96-9d63-0e3533fe3803",
+      "attributes": {
+        "email": "testuser009@example.com",
+        "firstname": "Test009",
+        "lastname": "User",
+        "username": "testuser009",
+        "title": "Coordinator",
+        "department": "Marketing",
+        "employee_id": "EMP0009",
+        "status": "active",
+        "display_name": "Test009 User",
+        "created_at": "2025-10-20T02:59:16.215518"
+      },
+      "timestamp": "2025-10-20T02:59:16.215665"
+    },
+    {
+      "success": true,
+      "user_email": "testuser010@example.com",
+      "onelogin_id": "ol_user_23",
+      "session_id": "session_f6e90955-82d4-491b-bc3b-7f4d88945908",
+      "attributes": {
+        "email": "testuser010@example.com",
+        "firstname": "Test010",
+        "lastname": "User",
+        "username": "testuser010",
+        "title": "Administrator",
+        "department": "Operations",
+        "employee_id": "EMP0010",
+        "status": "active",
+        "display_name": "Test010 User",
+        "created_at": "2025-10-20T02:59:16.215723"
+      },
+      "timestamp": "2025-10-20T02:59:16.215897"
+    }
+  ],
+  "errors": [],
+  "generated_at": "2025-10-20T02:59:16.217254",
+  "system_stats": {
+    "provisioning_engine": {
+      "total_processed": 11,
+      "successful_provisions": 11,
+      "failed_provisions": 0,
+      "start_time": 
