@@ -1,0 +1,1 @@
+# Connectivity testing script 
